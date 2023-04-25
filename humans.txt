@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+     Preshit_Gupta  training_period  preshit7766
+
+# THANKS
+
+    mustak sir
+	thank you sir for teaching me
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+	Git.
